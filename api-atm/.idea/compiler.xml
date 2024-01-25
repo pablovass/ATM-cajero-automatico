@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="api-atm.main" target="17" />
+      <module name="api-atm.test" target="17" />
+      <module name="api-client.main" target="17" />
+      <module name="api-client.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
